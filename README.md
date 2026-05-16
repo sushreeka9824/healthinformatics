@@ -1,4 +1,4 @@
 # healthinformatics
 this is my first git repository
 <br>
-author- sushreeka khadka
+author- sushreeka (khadka)
